@@ -17,8 +17,12 @@ document.addEventListener('DOMContentLoaded', () => {
         { word: "BERUANG", image: "beruang.png" },
         { word: "BURUNG", image: "burung.png" },
         { word: "KURA-KURA", image: "kura-kura.png" },
-        { word: "KELINCI", image: "kelinci.png" }, // Contoh tambahan
-        { word: "ULAR", image: "ular.png" }       // Contoh tambahan
+        { word: "KELINCI", image: "kelinci.png" }, 
+        { word: "ULAR", image: "ular.png" }   
+        { word: "BEBEK", image: "bebek.png" } 
+        { word: "IKAN", image: "ikan.png" }
+        { word: "AYAM", image: "ayam.png" }
+        { word: "KUDA", image: "kuda.png" }
     ];
 
     let currentAnimal = {};
